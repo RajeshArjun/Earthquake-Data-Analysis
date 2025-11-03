@@ -22,3 +22,7 @@ Magnitude: Strong positive correlation
 r=0.91, showing that larger earthquakes have a significantly higher impact significance.
 
 Files Attached:
+
+Final Draft 1.rmd -> All analysis for this project was performed in an R Markdown (.Rmd) file, which contains the R code, visualizations, and statistical summaries. The .Rmd file allows for a reproducible workflow, combining code, output, and narrative explanations in a single document.
+
+Citation -> Library.usgs.gov
